@@ -10,4 +10,6 @@
 
 ## [Projeto final:](./Projeto/README.md)
 
-Apresente uma breve descrição do seu projeto.
+Tema: Gestão de Matérias para alunos de Sistemas de Informação do ICEA
+
+O Objetivo é ter organizado em um só local as matérias do curso separadas por período onde o aluno consegue marcar quais ele já passou, reprovou ou trancou, colocar informações de provas, trabalhos, seminários e exercícios contento para cada um desses assuntos as datas, se são teóricos ou práticos, o valor e a nota recebida. Inicialmente com três telas: Tela inicial, tela com as matérias e tela com as tarefas.
